@@ -4,13 +4,14 @@
     <!--pplication>wheresmytube-beta</application>-->
     <!--<application>ckconcurrent</application>-->
 
+    <threadsafe>true</threadsafe>
     <!-- for deployment deploy each of these REPLACING UNDERSCORES WITH DASHES -->
     <application>wheresmytube</application>
     <!--<application>wheresmytube__1</application>-->
     <!--<application>wheresmytube__2</application>-->
 
     <!-- version is version on then the date -->
-	<version>1--07-02-10</version>
+	<version>06-10-13</version>
 	
 	<!-- Configure java.util.logging -->
 	<system-properties>
